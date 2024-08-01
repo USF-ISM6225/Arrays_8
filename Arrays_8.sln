@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_7", "Arrays_7\Arrays_7.csproj", "{1C90EEC0-1ECB-44F9-A5F8-AA1DB6FA2005}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_8", "Arrays_8\Arrays_8.csproj", "{1C90EEC0-1ECB-44F9-A5F8-AA1DB6FA2005}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
